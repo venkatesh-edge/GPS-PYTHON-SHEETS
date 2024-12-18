@@ -1,0 +1,84 @@
+Access and Edit google sheets with Python :
+
+go to google: console.developers.google.com
+
+======================
+
+enter the site and see for the "my first project".
+
+======================
+
+enter the project name "my first project".
+
+location "optional".
+
+enter "create"
+
+======================
+
+search for "ENABLE APIS AND SERVICES" click on it.
+
+======================
+
+search for "Drive api" enter
+
+select "Google drive API" and ENABLE it.
+
+======================
+
+search for "Sheets api" enter
+
+select "Google sheets API" and ENABLE it.
+
+now Click on "Credentials" on side bar.
+
+Click on "CREATE CREDENTIALS".
+
+=======================
+
+search for "create service account"
+
+select "service accounts"
+
+give the "service account name"
+
+give it as "editor"
+
+and click create 
+
+
+example :
+mygpstrace@mygpstrace-415209.iam.gserviceaccount.com
+
+
+=======================
+
+search for actions
+
+select "manage keys"
+
+=======================
+
+Click "ADD KEY"
+
+Click "Create new key"
+
+select "JSON"
+
+CREATE.
+
+save it near code folder
+
+**GETS AUTO DOWNLOADS**
+=========================
+
+
+
+
+
+
+
+
+
+
+

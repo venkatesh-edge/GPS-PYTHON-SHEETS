@@ -1,0 +1,13 @@
+Upon powering on the device, only the red LED light illuminates, and the green LED light does not turn on. Additionally, when I remove the SD card, I am unable to see the bootloader screen.
+
+I have attempted the following troubleshooting steps:
+
+1.Ensured a stable power supply with sufficient current output.
+2.Verified proper insertion of the SD card containing a bootable operating system.
+3.Checked the contents of the SD card and reflashed it with a fresh copy of the operating system.
+4.Confirmed all connections, including HDMI, keyboard, and mouse, are properly connected.
+5.Inspected the Raspberry Pi for physical damage or defects.
+
+Despite these efforts, the issue persists, and I am unable to boot the Raspberry Pi successfully.
+
+I would greatly appreciate any guidance or support you can provide to help resolve this matter. If further troubleshooting steps are necessary or if the device requires servicing, please advise on the next steps.
